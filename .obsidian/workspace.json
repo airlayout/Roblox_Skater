@@ -11,10 +11,14 @@
             "id": "03ae24cd404c6092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -90,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "dete",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -150,15 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "8858b18ee4eca87f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,9 +190,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "e87957df9b606062",
-  "lastOpenFiles": []
+  "active": "671878c01cc90e27",
+  "lastOpenFiles": [
+    "src/Workspace/init.meta.json",
+    "src/ReplicatedStorage/Economy/EconomyRemotes.luau",
+    "src/ReplicatedStorage/Economy/EconomyConfig.luau",
+    "src/ReplicatedStorage/Economy",
+    "sourcemap.json",
+    "src/StarterPlayer/StarterPlayerScripts",
+    "src/StarterPlayer/StarterCharacterScripts",
+    "src/Workspace",
+    "src/StarterPlayer",
+    "src/StarterPack",
+    "src/StarterGui"
+  ]
 }

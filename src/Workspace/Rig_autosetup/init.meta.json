@@ -1,0 +1,19 @@
+{
+  "className": "Model",
+  "properties": {
+    "Attributes": {
+      "RBX_AutoSetupped": true,
+      "RBX_AvatarPreviewer_shouldReimport": false,
+      "RBX_AutoSetupInputAsset": "no model uploaded",
+      "RBX_AvatarPreviewer_textured": true,
+      "RBX_ImportMethod": 0,
+      "RBX_AvatarPreviewer_ValidationResultReported": true,
+      "RBX_AvatarPreviewer_stage": "CheckBody",
+      "RBX_AvatarPreviewer_equippedItems": "[{\"palette\":\"Movement\",\"item\":{\"source\":\"builtin\",\"builtinItem\":16562317918}},{\"palette\":\"Head\",\"item\":{\"source\":\"instance\",\"key\":\"{1253ac84-916c-45ee-93fe-9a856e80cc64}\"}}]",
+      "RBX_AvatarPreviewer_initialImportComplete": true,
+      "RBX_AutoSetupOriginalModelHash": "55e002daec7679acaeee6a81d06ac6b580ce75fa8b56caac4f3c748598a21bd5",
+      "RBX_AutoSetup_OriginalScale": 1,
+      "RBX_AvatarPreviewer_completedAutoSetupSurvey": false
+    }
+  }
+}
